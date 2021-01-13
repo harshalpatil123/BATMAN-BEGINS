@@ -119,7 +119,7 @@ text("BATMAN BEGINS",width/2+500,height-670);
        bat.y = Math.round(random(height-400,height-650));
         bat.addAnimation('flying',bats);
 
-        bat.velocityX = -7;
+        bat.velocityX = -10;
         
          
         bat.lifetime = 200;
